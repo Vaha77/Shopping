@@ -112,6 +112,7 @@ span.text-red {
 .product-card:hover {
   transform: scale(1.1, 1.1);
 }
+
 .product-image {
   border-radius: 15px;
   background-color: #ebebeb;
