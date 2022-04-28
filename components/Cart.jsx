@@ -2,6 +2,7 @@ import React, { useRef } from "react";
 import Link from "next/link";
 import {
   AiOutlineMinus,
+  AiOutlineMinu,
   AiOutlinePlus,
   AiOutlineLeft,
   AiOutlineShopping,
