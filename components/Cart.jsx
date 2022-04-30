@@ -3,7 +3,6 @@ import Link from "next/link";
 import {
   AiOutlineMinus,
   AiOutlinePlus,
-  AiOutlinePlu,
   AiOutlineLeft,
   AiOutlineShopping,
 } from "react-icons/ai";
